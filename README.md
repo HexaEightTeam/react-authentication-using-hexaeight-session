@@ -11,4 +11,4 @@ You can login using any email address into the app and try out the Encryption/de
 
 This Sample demo app is protected using HexaEight Token Server.
 
-!!! Note: Change Client ID and token server url in src/App.js accordingly
+**Note: Change Client ID and token server url in src/App.js accordingly**
