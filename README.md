@@ -16,3 +16,5 @@ This Sample demo app is protected using HexaEight Token Server.
 **Note: Change Client ID and token server url in src/App.js accordingly**
 
 This demo repository is part of [Hexaight Session For Single Page Apps and Websites using JavaScript Repository](https://github.com/HexaEightTeam/session-js-spa-https)
+
+
